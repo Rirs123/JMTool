@@ -1,0 +1,9 @@
+# JmTool 插件依赖
+# 一键安装: pip install -r requirements.txt
+# Windows 也可直接运行 setup.bat
+
+commonx
+curl_cffi
+Pillow
+pycryptodome
+PyYAML

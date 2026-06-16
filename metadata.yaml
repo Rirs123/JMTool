@@ -1,0 +1,6 @@
+name: JmTool
+desc: JmComic - download, build long images, and forward
+help: Send .jm for tutorial, .jmtest for self-check
+version: v1.0
+author: Rirs
+repo: https://github.com/Rirs123/JmTool
